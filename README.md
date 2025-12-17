@@ -14,6 +14,6 @@ This is a special Mother's Day web project featuring a beautiful animated envelo
 
 ## 🚀 How to Use
 
-1. **use this link** : https://24000722.github.io/MotherDayCard/
+1. **use this link** : https://sedzani06.github.io/Mother-s-Day-Card/
 2. You can also view it using the index.html file
    
